@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_physical_information"
+        android:icon="@drawable/ic_person"
+        android:title="Physical characteristics" />
+    <item
+        android:id="@+id/nav_activity_goals"
+        android:icon="@drawable/ic_activity"
+        android:title="Activity goals" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Log out" />
+</menu>

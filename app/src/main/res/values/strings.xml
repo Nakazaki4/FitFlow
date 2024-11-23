@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FitFlow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">873293415268-c424nggfbav671jrboqa3jdcc0k5qaeq.apps.googleusercontent.com</string>
+</resources>
